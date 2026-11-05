@@ -1,72 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life with God: Audio Meditations</title>
     <link>https://renovare.org</link>
     <description>Curated audio meditations from Renovaré featuring Nathan Foster and guests.</description>
     <language>en-us</language>
     <itunes:author>Renovaré</itunes:author>
+    <itunes:image href="https://img.transistorcdn.com/SZkgXMKJePzlCFsjv7GnHeEhvDDkXecx4UlGCvonnuA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MjZk/OWY5YTczMzk4ZjE3/ZmY5YzZhNjQ3ZGJj/ZDkzNC5wbmc.jpg"/>
 
     <!-- Episode 327 -->
     <item>
-      <title>Audio Meditation — Only One Thing (E327)</title>
+      <title>Audio Meditation — Only One Thing</title>
+      <itunes:episode>327</itunes:episode>
       <link>https://renovare.org/podcasts/lifewithgod/audio-meditation-only-one-thing</link>
-      <description>Meditation on Mary and Martha from Luke 10.</description>
-      <enclosure url="https://traffic.megaphone.fm/RNVR9260172605.mp3" length="25492480" type="audio/mpeg"/>
-      <guid isPermaLink="false">renovare-audio-meditation-327</guid>
-      <pubDate>Mon, 01 Jan 2024 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p>In a new audio meditation, Nathan Foster places David's longing to “dwell in God's house all the days of my life” (Psalm 27) alongside Jesus’ invitation to live in God's kingdom here and now. To be with God and under his rule is something to seek with our whole being, ahead of all else.</p>]]></description>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 -0400</pubDate>
+      <enclosure url="https://media.transistor.fm/e43ccb48/f5a6446e.mp3" length="20322249" type="audio/mpeg"/>
+      <guid isPermaLink="false">126372dc-0c39-4e21-acf7-a1093783969f</guid>
+      <itunes:duration>1269</itunes:duration>
+      <itunes:author>Renovaré</itunes:author>
     </item>
 
     <!-- Episode 321 -->
     <item>
-      <title>Audio Meditation: A Litany of Humility (E321)</title>
+      <title>Audio Meditation: A Litany of Humility</title>
+      <itunes:episode>321</itunes:episode>
       <link>https://renovare.org/podcasts/lifewithgod/audio-meditation-a-litany-of-humility</link>
-      <description>Prayer and audio meditation on the Litany of Humility.</description>
-      <enclosure url="https://traffic.megaphone.fm/RNVR7845864558.mp3" length="22097763" type="audio/mpeg"/>
-      <guid isPermaLink="false">renovare-audio-meditation-321</guid>
-      <pubDate>Mon, 20 Nov 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p>We invite you to enter a time of prayer with Nathan Foster as he works through the Litany of Humility’s three movements and expands them with his own meditations. The prayer begins, “O Jesus! meek and humble of heart, hear me.”</p>]]></description>
+      <pubDate>Fri, 26 Jun 2026 10:36:39 -0400</pubDate>
+      <enclosure url="https://media.transistor.fm/491418d6/211ee4bd.mp3" length="19111391" type="audio/mpeg"/>
+      <guid isPermaLink="false">2cba2ef9-58f8-4296-a900-a107fe0f2a1c</guid>
+      <itunes:duration>1193</itunes:duration>
+      <itunes:author>Renovaré</itunes:author>
     </item>
 
     <!-- Episode 311 -->
     <item>
-      <title>New Year Meditation with Vivianne Foster (E311)</title>
+      <title>New Year Meditation with Vivianne Foster</title>
+      <itunes:episode>311</itunes:episode>
       <link>https://renovare.org/podcasts/lifewithgod/new-year-meditation-with-vivianne-foster</link>
-      <description>New Year audio meditation guided with Vivianne Foster.</description>
-      <enclosure url="https://traffic.megaphone.fm/RNVR4688849767.mp3" length="31457280" type="audio/mpeg"/>
-      <guid isPermaLink="false">renovare-audio-meditation-311</guid>
-      <pubDate>Mon, 02 Jan 2023 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p>Nathan and Vivianne Foster share a meditation for the New Year melding a famous quote by Francis de Sales with the words of Mary from Luke 1 in this bonus episode of Life With God.</p>]]></description>
+      <pubDate>Fri, 09 Jan 2026 08:45:09 -0500</pubDate>
+      <enclosure url="https://media.transistor.fm/77b62a58/b4731c67.mp3" length="23189838" type="audio/mpeg"/>
+      <guid isPermaLink="false">3af17701-7977-4270-baf1-9188ea987e68</guid>
+      <itunes:duration>1448</itunes:duration>
+      <itunes:author>Renovaré</itunes:author>
     </item>
 
     <!-- Episode 294 -->
     <item>
-      <title>Audio Meditation: The Present Moment (E294)</title>
+      <title>Audio Meditation: The Present Moment</title>
+      <itunes:episode>294</itunes:episode>
       <link>https://renovare.org/podcasts/lifewithgod/audio-meditation-the-present-moment</link>
-      <description>Guided audio reflection on resting in the present moment.</description>
-      <enclosure url="https://traffic.megaphone.fm/RNVR8452391054.mp3" length="24823808" type="audio/mpeg"/>
-      <guid isPermaLink="false">renovare-audio-meditation-294</guid>
-      <pubDate>Mon, 05 Sep 2022 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p>In this audio meditation, Nathan Foster weaves together a selection of beautiful and challenging sayings by 17th-century spiritual director, Jean Pierre de Caussade that invite us to embrace God’s formation deep into our souls.</p>]]></description>
+      <pubDate>Fri, 11 Apr 2025 12:57:58 -0400</pubDate>
+      <enclosure url="https://media.transistor.fm/5d487957/f1cb93b2.mp3" length="21152702" type="audio/mpeg"/>
+      <guid isPermaLink="false">99609935-98cb-4482-ab7f-aa80a8d987cf</guid>
+      <itunes:duration>1321</itunes:duration>
+      <itunes:author>Renovaré</itunes:author>
     </item>
 
     <!-- Episode 288 -->
     <item>
-      <title>Audio Retreat: Meditation on Patient Trust (E288)</title>
+      <title>Audio Retreat: Meditation on Patient Trust</title>
+      <itunes:episode>288</itunes:episode>
       <link>https://renovare.org/podcast/audio-retreat-meditation-on-patient-trust</link>
-      <description>Guided retreat audio focusing on patient trust.</description>
-      <enclosure url="https://traffic.megaphone.fm/RNVR3849201582.mp3" length="26214400" type="audio/mpeg"/>
-      <guid isPermaLink="false">renovare-audio-meditation-288</guid>
-      <pubDate>Mon, 18 Jul 2022 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p>Today’s podcast is a 13-minute meditation — an audio retreat — on a prayer by the French priest Pierre Teilhard de Chardin. Put on some headphones, find a comfortable spot, and let your soul be quieted.</p>]]></description>
+      <pubDate>Fri, 17 Jan 2025 08:00:00 -0500</pubDate>
+      <enclosure url="https://media.transistor.fm/d6cf35e5/6927bbb7.mp3" length="13034268" type="audio/mpeg"/>
+      <guid isPermaLink="false">bf7f7d73-625e-4020-928a-2b1c90ea65ac</guid>
+      <itunes:duration>813</itunes:duration>
+      <itunes:author>Renovaré</itunes:author>
     </item>
 
     <!-- Episode 257 -->
     <item>
-      <title>Meditation on Psalm 131 (Encore Series) (E257)</title>
+      <title>Meditation on Psalm 131 (Encore Series)</title>
+      <itunes:episode>257</itunes:episode>
       <link>https://renovare.org/podcast/psalm131-encore</link>
-      <description>Scripture meditation resting in Psalm 131.</description>
-      <enclosure url="https://traffic.megaphone.fm/RNVR1948203851.mp3" length="28311552" type="audio/mpeg"/>
-      <guid isPermaLink="false">renovare-audio-meditation-257</guid>
-      <pubDate>Mon, 13 Dec 2021 08:00:00 GMT</pubDate>
+      <description><![CDATA[<p>A 20-minute meditation—an audio retreat—on Psalm 131. Put on some headphones, find a comfortable spot, and let your soul be quieted. This episode is a collaboration with Joshua Banner from The Invitation Podcast (invitationpodcast.org).</p>]]></description>
+      <pubDate>Fri, 11 Aug 2023 18:21:27 -0400</pubDate>
+      <enclosure url="https://media.transistor.fm/c59d8307/6a5dd72c.mp3" length="19374931" type="audio/mpeg"/>
+      <guid isPermaLink="false">5338fb62-0ed9-45ca-9725-f1d962c34853</guid>
+      <itunes:duration>1207</itunes:duration>
+      <itunes:author>Renovaré</itunes:author>
     </item>
   </channel>
 </rss>
