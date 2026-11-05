@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life with God: Audio Meditations</title>
+    <link>https://renovare.org</link>
+    <description>Curated audio meditations from Renovaré featuring Nathan Foster and guests.</description>
+    <language>en-us</language>
+    <itunes:author>Renovaré</itunes:author>
+
+    <item>
+      <title>Audio Meditation — Only One Thing (E327)</title>
+      <link>https://renovare.org/podcasts/lifewithgod/audio-meditation-only-one-thing</link>
+      <description>Meditation on Mary and Martha from Luke 10.</description>
+      <enclosure url="https://traffic.megaphone.fm/RNVR9260172605.mp3" length="25492480" type="audio/mpeg"/>
+      <guid isPermaLink="false">renovare-meditation-327</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Audio Meditation: A Litany of Humility (E321)</title>
+      <link>https://renovare.org/podcasts/lifewithgod/audio-meditation-a-litany-of-humility</link>
+      <description>Prayer and audio meditation on the Litany of Humility.</description>
+      <enclosure url="https://traffic.megaphone.fm/RNVR7845864558.mp3" length="22097763" type="audio/mpeg"/>
+      <guid isPermaLink="false">renovare-meditation-321</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>New Year Meditation with Vivianne Foster (E311)</title>
+      <link>https://renovare.org/podcasts/lifewithgod/new-year-meditation-with-vivianne-foster</link>
+      <description>New Year audio meditation guided with Vivianne Foster.</description>
+      <enclosure url="https://traffic.megaphone.fm/RNVR4688849767.mp3" length="31457280" type="audio/mpeg"/>
+      <guid isPermaLink="false">renovare-meditation-311</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Audio Meditation: The Present Moment (E294)</title>
+      <link>https://renovare.org/podcasts/lifewithgod/audio-meditation-the-present-moment</link>
+      <description>Guided audio reflection on resting in the present moment.</description>
+      <enclosure url="https://traffic.megaphone.fm/RNVR8452391054.mp3" length="24823808" type="audio/mpeg"/>
+      <guid isPermaLink="false">renovare-meditation-294</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Audio Retreat: Meditation on Patient Trust (E288)</title>
+      <link>https://renovare.org/podcast/audio-retreat-meditation-on-patient-trust</link>
+      <description>Guided retreat audio focusing on patient trust.</description>
+      <enclosure url="https://traffic.megaphone.fm/RNVR3849201582.mp3" length="26214400" type="audio/mpeg"/>
+      <guid isPermaLink="false">renovare-meditation-288</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Meditation on Psalm 131 (Encore Series) (E257)</title>
+      <link>https://renovare.org/podcast/psalm131-encore</link>
+      <description>Scripture meditation resting in Psalm 131.</description>
+      <enclosure url="https://traffic.megaphone.fm/RNVR1948203851.mp3" length="28311552" type="audio/mpeg"/>
+      <guid isPermaLink="false">renovare-meditation-257</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
