@@ -9,7 +9,12 @@
     <description>Curated audio meditations from Renovaré featuring Nathan Foster and guests.</description>
     <language>en-us</language>
     <itunes:author>Renovaré</itunes:author>
-    <itunes:image href="https://img.transistorcdn.com/SZkgXMKJePzlCFsjv7GnHeEhvDDkXecx4UlGCvonnuA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MjZk/OWY5YTczMzk4ZjE3/ZmY5YzZhNjQ3ZGJj/ZDkzNC5wbmc.jpg"/>
+    <itunes:image href="https://rjtucker.github.io/renovare-meditations/artwork.jpg"/>
+     <image>
+       <url>https://rjtucker.github.io/renovare-meditations/artwork.jpg</url>
+       <title>Life with God: Audio Meditations</title>
+       <link>https://renovare.org</link>
+     </image>
 
     <!-- Episode 327 -->
     <item>
